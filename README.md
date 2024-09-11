@@ -1,1 +1,1 @@
-My entry to our chessboard project for the Avion School course.
+My entry to our chessboard project, utilizing FLEXBOX, for the Avion School course.
